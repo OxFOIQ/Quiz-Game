@@ -20,7 +20,7 @@ Make sure you have Go installed on your system. You can download it .
 
 Clone this repository:
 
-https://github.com/MedAmyyne/Quiz-Game.git
+git clone https://github.com/MedAmyyne/Quiz-Game.git
 
 go run quiz.go
 
